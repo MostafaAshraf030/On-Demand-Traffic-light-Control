@@ -1,0 +1,15 @@
+01-MCAL/03-TIMER/TIMER_Prog.d 01-MCAL/03-TIMER/TIMER_Prog.o: \
+ ../01-MCAL/03-TIMER/TIMER_Prog.c ../01-MCAL/03-TIMER/TIMER_Int.h \
+ ../01-MCAL/03-TIMER/../../00-Lib/BIT_Math.h \
+ ../01-MCAL/03-TIMER/../../00-Lib/STD_Types.h \
+ ../01-MCAL/03-TIMER/TIMER_Config.h ../01-MCAL/03-TIMER/TIMER_Private.h
+
+../01-MCAL/03-TIMER/TIMER_Int.h:
+
+../01-MCAL/03-TIMER/../../00-Lib/BIT_Math.h:
+
+../01-MCAL/03-TIMER/../../00-Lib/STD_Types.h:
+
+../01-MCAL/03-TIMER/TIMER_Config.h:
+
+../01-MCAL/03-TIMER/TIMER_Private.h:
